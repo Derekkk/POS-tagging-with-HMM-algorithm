@@ -3,8 +3,8 @@ Using HMM for pos tagging task
 ---------------------------------
 Here I use Viterbi algorithm to do pos tagging task.
 
-# Dataset: dataset in English from Universal Dependencies (http://universaldependencies.org/#en).
-# Tags: Refer this link (http://universaldependencies.org/en/pos/all.html) to see all possible tagsin the corpus.
+###### Dataset: dataset in English from Universal Dependencies (http://universaldependencies.org/#en).
+###### Tags: Refer this link (http://universaldependencies.org/en/pos/all.html) to see all possible tagsin the corpus.
 
 1. train.counts: Frequency counts from the training file. It has two types of counts:
 (a) Emission counts, in the format <count> WORDTAG <tag> <word>
